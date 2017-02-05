@@ -1,1 +1,1 @@
-# data-science-course
+# datasciencecoursera
